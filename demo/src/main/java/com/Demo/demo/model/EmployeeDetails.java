@@ -16,7 +16,6 @@ public EmployeeDetails(String firstName, String lastName, int age, String deprtm
 	this.deprtment = deprtment;
 }
  public EmployeeDetails() {
-	 super();
 	 
  }
 
